@@ -4,6 +4,14 @@
 
 * [Main Gameloop](Gameloop/README.md)
 
+## Maps
+
+* [Maps](Maps/README.md)
+    * [Motel Room](Maps/MotelRoom.md)
+    * [Humble Abode](Maps/HumbleAbode.md)
+    * [Bathroom](Maps/Bathroom.md)
+    * [Moolah Manor](Maps/MoolahManor.md)
+
 ## Cosmetics
 
 * [Cosmetics](Cosmetics/README.md)
