@@ -1,6 +1,6 @@
 # Maps
 
-In Armless Detective, there are 4 maps as of V561. Choose the next map to learn about:
+In Armless Detective, there are 4 maps as of V561. Choose the a map to learn about:
 
 {% content-ref url="MotelRoom.md" %}
 [MotelRoom.md](MotelRoom.md)
