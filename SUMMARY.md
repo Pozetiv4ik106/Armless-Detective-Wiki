@@ -33,8 +33,18 @@
     * [Sheds hair oftenly](Clues/Shedshairoftenly.md)
     * [Writes in their diary](Clues/Writesintheirdiary.md)
 
-## Cosmetics
+## Achievements
+* [Achievements](Achievements/README.md)
+    * [Armless & Dangerous](Achievements/Armless&Dangerous.md)
+    * [Still In Touch](Achievements/StillInTouch.md)
+    * [Factory Error](Achievements/FactoryError.md)
+    * [Eyewitness](Achievements/Eyewitness.md)
+    * [Rental Charge First Edition Swag Badge](Achievements/RentalChargeFirstEditionSwagBadge.md)
+    * [Rental Charge](Achievements/RentalCharge.md)
+    * [Face your fears](Achievements/Faceyourfears.md)
+    * [As long as I got my Suit & Tie](Achievements/AslongasIgotmySuit&Tie.md)
 
+## Cosmetics
 * [Cosmetics](Cosmetics/README.md)
   * [Crates](Cosmetics/Crates/README.md)
     * [Gadget Crates](<Cosmetics/Crates/Gadget Crates/GadgetCrate1.md>)
