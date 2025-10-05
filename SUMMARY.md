@@ -22,6 +22,12 @@
     * [Kyle](Suspects/Kyle.md)
     * [Linda](Suspects/Linda.md)
     * [Mary](Suspects/Mary.md)
+    * [William](Suspects/William.md)
+    * [Jimbo](Suspects/Jimbo.md)
+    * [Junior](Suspects/Junior.md)
+    * [Nancy](Suspects/Nancy.md)
+    * [Buck](Suspects/Buck.md)
+    * [Oliver](Suspects/Oliver.md)
 
 ## Clues
 * [Clues](Clues/README.md)
