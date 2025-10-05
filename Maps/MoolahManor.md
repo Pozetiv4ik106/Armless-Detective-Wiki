@@ -11,11 +11,7 @@ coverY: 0
 
 {% include "../.gitbook/includes/undefined.md" %}
 
-*
-
-    <div data-full-width="true"><figure><img src="../.gitbook/assets/file5_6.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/file3 (6) (1).png" alt=""><figcaption></figcaption></figure></div>
-
-    &#x20;                       Dining room/ Hall                                                                                Library                                                                            &#x20;
+<div><figure><img src="../.gitbook/assets/file5_6.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/file3 (6).png" alt=""><figcaption></figcaption></figure></div>
 
 <div><figure><img src="../.gitbook/assets/file1_26.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/file2 (9).png" alt=""><figcaption></figcaption></figure></div>
 
