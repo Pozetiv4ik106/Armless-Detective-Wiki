@@ -23,6 +23,16 @@
     * [Linda](Suspects/Linda.md)
     * [Mary](Suspects/Mary.md)
 
+## Clues
+* [Clues](Clues/README.md)
+    * [Bad at Hiding Their Finger Prints](Clues/Badathidingtheirfingerprints.md)
+    * [Cold-blooded](Clues/Cold-blooded.md)
+    * [Eats lots of food](Clues/Eatslotsoffood.md)
+    * [Has no robux](Clues/Hasnorobux.md)
+    * [Likes to clean](Clues/Likestoclean.md)
+    * [Sheds hair oftenly](Clues/Shedshairoftenly.md)
+    * [Writes in their diary](Clues/Writesintheirdiary.md)
+
 ## Cosmetics
 
 * [Cosmetics](Cosmetics/README.md)
