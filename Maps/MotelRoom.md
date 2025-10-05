@@ -16,7 +16,7 @@ Motel room is a ⭐ difficulty map and the first map you'll be playing that cont
 
 
 
-## BACKSTORY
+## BACKSTORY:
 
 Clicking start will begin to play a cutscene of you suddenly losing both of your arms due to an accident that happened to your old workplace, the factory. Your smile suddenly going down :-(\
 \
