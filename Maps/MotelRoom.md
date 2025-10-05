@@ -6,4 +6,14 @@ description: “ Find out who broke into the Motel Room. ”
 
 <div><figure><img src="../.gitbook/assets/file1_17.png" alt=""><figcaption><p>BEDROOM</p></figcaption></figure> <figure><img src="../.gitbook/assets/file2_3.png" alt=""><figcaption><p>BATHROOM</p></figcaption></figure></div>
 
-Motel room is a ⭐ difficulty map that contains two rooms.
+Motel room is a ⭐ difficulty map and the first map you'll be playing that contains two rooms.
+
+**Upon solving the crime successfully, you will be rewarded with**:
+
+1. 10 coins ( _Repeatable_ )
+2. A badge, “ Armless & Dangerous ”
+3. A new map, Humble Adobe
+
+
+
+Clicking start will begin to play a cutscene of you suddenly losing both of your arms due to an accident that happened to your old workplace, the factory.&#x20;
