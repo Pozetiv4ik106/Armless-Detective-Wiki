@@ -1,5 +1,7 @@
 ---
 description: “ Find out who broke into the Motel Room. ”
+cover: ../.gitbook/assets/file1_17.png
+coverY: 0
 ---
 
 # Motel Room
