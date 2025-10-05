@@ -20,6 +20,8 @@
     * [Charles](Suspects/Charles.md)
     * [Sara](Suspects/Sara.md)
     * [Kyle](Suspects/Kyle.md)
+    * [Linda](Suspects/Linda.md)
+    * [Mary](Suspects/Mary.md)
 
 ## Cosmetics
 
