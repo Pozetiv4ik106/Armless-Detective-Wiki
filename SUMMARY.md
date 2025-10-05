@@ -1,4 +1,6 @@
-# Table Of Contents
+# Table of contents
+
+* [README](README.md)
 
 ## Gameloop
 
@@ -7,13 +9,13 @@
 ## Maps
 
 * [Maps](Maps/README.md)
-    * [Motel Room](Maps/MotelRoom.md)
-    * [Humble Abode](Maps/HumbleAbode.md)
-    * [Bathroom](Maps/Bathroom.md)
-    * [Moolah Manor](Maps/MoolahManor.md)
+  * [Motel Room](Maps/MotelRoom.md)
+  * [Humble Abode](Maps/HumbleAbode.md)
+  * [Bathroom](Maps/Bathroom.md)
+  * [Moolah Manor](Maps/MoolahManor.md)
 
 ## Cosmetics
 
 * [Cosmetics](Cosmetics/README.md)
-    * [Crates](Cosmetics/Crates/README.md)
-        * [Gadget Crates](Cosmetics/Crates/Gadget%20Crates/GadgetCrate1.md)
+  * [Crates](Cosmetics/Crates/README.md)
+    * [Gadget Crates](<Cosmetics/Crates/Gadget Crates/GadgetCrate1.md>)
