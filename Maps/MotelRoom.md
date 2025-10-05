@@ -18,4 +18,4 @@ Motel room is a ⭐ difficulty map and the first map you'll be playing that cont
 
 Clicking start will begin to play a cutscene of you suddenly losing both of your arms due to an accident that happened to your old workplace, the factory. Your bright smile suddenly disappearing :-(\
 \
-After getting a new job as a detective, your boss gave you a hat that has everything you need to solve the case.
+After getting a new job as a detective, your boss gave you a black fedora that has everything you need to solving the all cases you'll be facing soon.
