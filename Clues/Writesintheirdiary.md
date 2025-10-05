@@ -1,0 +1,1 @@
+# Writes in their diary

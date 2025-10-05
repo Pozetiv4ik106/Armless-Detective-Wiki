@@ -1,17 +1,17 @@
 ---
-description: Sold all of her teeth to the tooth fairy when she was young. now all of her new ones grew in wrong.
+description: None
 ---
 
-# Clara
+# Linda
 
 Gender: Female
 
 {% tabs %}
 {% tab title="Motel Room" %}
-Suspect No°1
+Suspect No°5
+- [Writes in their diary](../Clues/Writesintheirdiary.md)
 - [Bad at hiding their fingerprints](../Clues/Badathidingtheirfingerprints.md)
 - [Cold-blooded](../Clues/Cold-blooded.md)
-- [Has no robux](../Clues/Hasnorobux.md)
 {% endtab %}
 
 {% tab title="Null" %}

@@ -9,9 +9,9 @@ Gender: Male
 {% tabs %}
 {% tab title="Motel Room" %}
 Suspect No°2
-- Sheds hair oftenly
-- Writes in their diary
-- Likes to clean
+- [Sheds hair oftenly](../Clues/Shedshairoftenly.md)
+- [Writes in their diary](../Clues/Writesintheirdiary.md)
+- [Likes to clean](../Clues/Hasnorobux.md)
 {% endtab %}
 
 {% tab title="Null" %}
