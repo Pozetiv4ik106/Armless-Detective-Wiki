@@ -11,7 +11,7 @@ Gender: Male
 Suspect No°2
 - [Sheds hair oftenly](../Clues/Shedshairoftenly.md)
 - [Writes in their diary](../Clues/Writesintheirdiary.md)
-- [Likes to clean](../Clues/hasnorobux.md)
+- [Likes to clean](../Clues/Hasnorobux.md)
 {% endtab %}
 
 {% tab title="Null" %}
