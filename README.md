@@ -1,4 +1,8 @@
-# Armless Detective Wiki
+---
+icon: hand-wave
+---
+
+# README
 
 ## Please Note That This Is A TEST!
 
