@@ -43,6 +43,8 @@
 * [Achievements](Achievements/README.md)
     * [Armless & Dangerous](Achievements/Armless&Dangerous.md)
     * [Still In Touch](Achievements/StillInTouch.md)
+    * [Duty Completed](Achievements/DutyCompleted.md)
+    * [Cha-Ching](Achievements/Cha-Ching.md)
     * [Factory Error](Achievements/FactoryError.md)
     * [Eyewitness](Achievements/Eyewitness.md)
     * [Rental Charge First Edition Swag Badge](Achievements/RentalChargeFirstEditionSwagBadge.md)
