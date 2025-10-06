@@ -2,6 +2,8 @@
 description: >-
   Find out who decided it was a good idea to blow up the toilet and leave with 3
   traces.
+cover: ../.gitbook/assets/file3_4.png
+coverY: 0
 ---
 
 # Bathroom
