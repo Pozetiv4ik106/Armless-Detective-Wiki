@@ -20,6 +20,6 @@ coverY: 0
 \
 1.For completing a level you are given 50 coins.\
 \
-2.A badge, Cha-Ching\
+2.A badge, [Cha-Ching](../Achievements/Cha-Ching.md)\
 \
 3.Nothing.
