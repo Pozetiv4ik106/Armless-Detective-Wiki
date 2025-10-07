@@ -3,3 +3,5 @@ description: Achieve 10,000 Lifetime Coins
 ---
 
 # Rental Charge
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
