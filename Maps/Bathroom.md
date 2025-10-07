@@ -1,7 +1,5 @@
 ---
-description: >-
-  Find out who decided it was a good idea to blow up the toilet and leave with 3
-  traces.
+description: “Find out who decided it was a good idea to blow up the toilet and leave with 3 traces.”
 cover: ../.gitbook/assets/file3_4.png
 coverY: 0
 ---
@@ -18,10 +16,11 @@ Info: The bathroom location opens to you after completing the first two location
 \
 1\. 30 coins ( _Repeatable_ )\
 \
-2\. A badge, Duty Completed\
+2\. A badge, “[Duty Completed](../Achievements/DutyCompleted.md)”\
 \
-3 A new map, Moolah Manor\
+3 A new map, “[Moolah Manor](MoolahManor.md)”\
 \
-Extra info: Someone watched Markiplier's video\
+Extra info: Someone watched Markiplier's video
+\
 in this toilet\
 \
