@@ -10,4 +10,4 @@ Won Ever 61\
 \
 The first to receive this achievement is Toypirate.
 
-&#x20;                                  ![](<../.gitbook/assets/image (2).png>)
+&#x20;                                  ![](<../.gitbook/assets/image (2) (1).png>)
