@@ -54,6 +54,7 @@
   * [As long as I got my Suit & Tie](Achievements/AslongasIgotmySuit\&Tie.md)
   * [Rental Charge](Achievements/RentalCharge.md)
   * [Rental Charge First Edition Swag Badge](Achievements/RentalChargeFirstEditionSwagBadge.md)
+  * [Finders Keepers \[UNOBTAINALBLE\]](achievements/achievements/finders-keepers-unobtainalble.md)
 
 ## Cosmetics
 
