@@ -33,6 +33,9 @@
 ## Clues
 
 * [Clues](Clues/README.md)
+  * [Leaves shoe behind](clues/clues/leaves-shoe-behind.md)
+  * [Known Looter](clues/clues/known-looter.md)
+  * [Releases Rats](clues/clues/releases-rats.md)
   * [Bad at Hiding Their Finger Prints](Clues/Badathidingtheirfingerprints.md)
   * [Cold-blooded](Clues/Cold-blooded.md)
   * [Eats lots of food](Clues/Eatslotsoffood.md)

@@ -1,7 +1,7 @@
 ---
 description: >-
-  This evidence can be detected using a magnet.They usually appear in the
-  corners of the map
+  This clues can be detected using a magnet.They usually appear in the corners
+  of the map
 ---
 
 # Has no robux
