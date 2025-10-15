@@ -62,5 +62,6 @@
 ## Cosmetics
 
 * [Cosmetics](Cosmetics/README.md)
+  * [Hats](cosmetics/cosmetics/hats.md)
   * [Crates](Cosmetics/Crates/README.md)
     * [Gadget Crates](<Cosmetics/Crates/Gadget Crates/GadgetCrate1.md>)
