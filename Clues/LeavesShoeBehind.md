@@ -1,5 +1,5 @@
 ---
-description: This clue can be found simply by examining the perimeter of the map.
+description: This clue can be found simply by examining the perimeter of the map and looking for a shoe.
 ---
 
 # Leaves shoe behind
