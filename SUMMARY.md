@@ -16,6 +16,7 @@
 
 ## Suspects
 
+* [Hallowen Suspects 2025](suspects/hallowen-suspects-2025.md)
 * [Suspects](Suspects/README.md)
   * [Clara](Suspects/Clara.md)
   * [Charles](Suspects/Charles.md)
@@ -33,6 +34,7 @@
 ## Clues
 
 * [Hallowen Clues 2025](clues/hallowen-clues-2025/README.md)
+  * [Agered spirits](clues/hallowen-clues-2025/agered-spirits.md)
   * [Robs graves](clues/hallowen-clues-2025/robs-graves.md)
   * [Has a sweet tooth](clues/hallowen-clues-2025/has-a-sweet-tooth.md)
 * [Clues](Clues/README.md)
