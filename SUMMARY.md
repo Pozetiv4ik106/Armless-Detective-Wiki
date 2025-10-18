@@ -32,8 +32,10 @@
 
 ## Clues
 
+* [Hallowen Clues 2025](clues/hallowen-clues-2025/README.md)
+  * [Robs graves](clues/hallowen-clues-2025/robs-graves.md)
+  * [Has a sweet tooth](clues/hallowen-clues-2025/has-a-sweet-tooth.md)
 * [Clues](Clues/README.md)
-  * [Robs graves](clues/clues/robs-graves.md)
   * [Leaves shoe behind](clues/clues/leaves-shoe-behind.md)
   * [Known Looter](clues/clues/known-looter.md)
   * [Releases Rats](clues/clues/releases-rats.md)
