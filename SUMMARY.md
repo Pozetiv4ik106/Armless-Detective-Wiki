@@ -33,6 +33,7 @@
 ## Clues
 
 * [Clues](Clues/README.md)
+  * [Robs graves](clues/clues/robs-graves.md)
   * [Leaves shoe behind](clues/clues/leaves-shoe-behind.md)
   * [Known Looter](clues/clues/known-looter.md)
   * [Releases Rats](clues/clues/releases-rats.md)
@@ -57,11 +58,10 @@
   * [As long as I got my Suit & Tie](Achievements/AslongasIgotmySuit\&Tie.md)
   * [Rental Charge](Achievements/RentalCharge.md)
   * [Rental Charge First Edition Swag Badge](Achievements/RentalChargeFirstEditionSwagBadge.md)
-  * [Finders Keepers \[UNOBTAINALBLE\]](achievements/achievements/finders-keepers-unobtainalble.md)
+  * [Finders Keepers](achievements/achievements/finders-keepers-unobtainalble.md)
 
 ## Cosmetics
 
 * [Cosmetics](Cosmetics/README.md)
-  * [Hats](cosmetics/cosmetics/hats.md)
   * [Crates](Cosmetics/Crates/README.md)
     * [Gadget Crates](<Cosmetics/Crates/Gadget Crates/GadgetCrate1.md>)

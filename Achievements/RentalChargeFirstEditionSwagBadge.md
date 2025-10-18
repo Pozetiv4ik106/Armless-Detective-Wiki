@@ -4,6 +4,8 @@ description: Achieve 10,000 C before October 3rd, 2025.
 
 # Rental Charge First Edition Swag Badge
 
+Upon receiving the badge, you were given an exclusive crown
+
 Status: Unobtainable\
 \
 Won Ever 61\
