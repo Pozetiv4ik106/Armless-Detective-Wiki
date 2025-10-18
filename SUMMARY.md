@@ -34,6 +34,8 @@
 ## Clues
 
 * [Hallowen Clues 2025](clues/hallowen-clues-2025/README.md)
+  * [Has a habit of hiding evidence](clues/hallowen-clues-2025/has-a-habit-of-hiding-evidence.md)
+  * [Has a personal vandetta](clues/hallowen-clues-2025/has-a-personal-vandetta.md)
   * [Agered spirits](clues/hallowen-clues-2025/agered-spirits.md)
   * [Robs graves](clues/hallowen-clues-2025/robs-graves.md)
   * [Has a sweet tooth](clues/hallowen-clues-2025/has-a-sweet-tooth.md)
