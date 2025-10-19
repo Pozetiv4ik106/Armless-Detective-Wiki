@@ -6,7 +6,7 @@ coverY: 0
 
 # Motel Room
 
-<div><figure><img src="../.gitbook/assets/file1_17.png" alt=""><figcaption><p>BEDROOM</p></figcaption></figure> <figure><img src="../.gitbook/assets/file2_3.png" alt=""><figcaption><p>BATHROOM</p></figcaption></figure></div>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/file1_17.png" alt=""><figcaption><p>BEDROOM</p></figcaption></figure> <figure><img src="../.gitbook/assets/file2_3.png" alt=""><figcaption><p>BATHROOM</p></figcaption></figure></div>
 
 Motel room is a ⭐ difficulty map and the first map you'll be playing that contains two rooms. The Bedroom and the Bathroom.
 

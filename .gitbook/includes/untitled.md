@@ -2,5 +2,6 @@
 title: Untitled
 ---
 
-<div><figure><img src="../assets/file1_17.png" alt=""><figcaption></figcaption></figure> <figure><img src="../assets/file1_17.png" alt=""><figcaption></figcaption></figure></div>
-
+{% content-ref url="../../clues/hallowen-clues-2025/diamond-buglar.md" %}
+[diamond-buglar.md](../../clues/hallowen-clues-2025/diamond-buglar.md)
+{% endcontent-ref %}

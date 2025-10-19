@@ -13,10 +13,36 @@
   * [Humble Abode](Maps/HumbleAbode.md)
   * [Bathroom](Maps/Bathroom.md)
   * [Moolah Manor](Maps/MoolahManor.md)
+  * [Cursed Cathedral](maps/maps/cursed-cathedral.md)
 
 ## Suspects
 
-* [Hallowen Suspects 2025](suspects/hallowen-suspects-2025.md)
+* [Hallowen Suspects](suspects/hallowen-suspects/README.md)
+  * [Jack](suspects/hallowen-suspects/jack.md)
+  * [Lace](suspects/hallowen-suspects/lace.md)
+  * [Stacy](suspects/hallowen-suspects/stacy.md)
+  * [Louie](suspects/hallowen-suspects/louie.md)
+  * [Elle](suspects/hallowen-suspects/elle.md)
+  * [Chester](suspects/hallowen-suspects/chester.md)
+  * [Harry](suspects/hallowen-suspects/harry.md)
+  * [Benny](suspects/hallowen-suspects/benny.md)
+  * [Sebastian](suspects/hallowen-suspects/sebastian.md)
+  * [Betty](suspects/hallowen-suspects/betty.md)
+  * [Charles](suspects/hallowen-suspects/charles.md)
+  * [Bob](suspects/hallowen-suspects/bob.md)
+  * [Buck](suspects/hallowen-suspects/buck.md)
+  * [Donovan](suspects/hallowen-suspects/donovan.md)
+  * [Coinhart](suspects/hallowen-suspects/coinhart.md)
+  * [Rob](suspects/hallowen-suspects/rob.md)
+  * [Silverline](suspects/hallowen-suspects/silverline.md)
+  * [Page](suspects/hallowen-suspects/page.md)
+  * [Stacy](suspects/hallowen-suspects/stacy-1.md)
+  * [Grace](suspects/hallowen-suspects/grace.md)
+  * [Vlorp](suspects/hallowen-suspects/vlorp.md)
+  * [Whitley](suspects/hallowen-suspects/whitley.md)
+  * [Archibald](suspects/hallowen-suspects/archibald.md)
+  * [Tod](suspects/hallowen-suspects/tod.md)
+  * [Alicia](suspects/hallowen-suspects/alicia.md)
 * [Suspects](Suspects/README.md)
   * [Clara](Suspects/Clara.md)
   * [Charles](Suspects/Charles.md)
@@ -34,6 +60,8 @@
 ## Clues
 
 * [Hallowen Clues 2025](clues/hallowen-clues-2025/README.md)
+  * [Diamond buglar](clues/hallowen-clues-2025/diamond-buglar.md)
+  * [Know looter](clues/hallowen-clues-2025/know-looter.md)
   * [Has a habit of hiding evidence](clues/hallowen-clues-2025/has-a-habit-of-hiding-evidence.md)
   * [Has a personal vandetta](clues/hallowen-clues-2025/has-a-personal-vandetta.md)
   * [Agered spirits](clues/hallowen-clues-2025/agered-spirits.md)
@@ -65,6 +93,7 @@
   * [Rental Charge](Achievements/RentalCharge.md)
   * [Rental Charge First Edition Swag Badge](Achievements/RentalChargeFirstEditionSwagBadge.md)
   * [Finders Keepers](achievements/achievements/finders-keepers-unobtainalble.md)
+  * [???](achievements/achievements/undefined.md)
 
 ## Cosmetics
 

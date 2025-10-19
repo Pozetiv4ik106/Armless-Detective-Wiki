@@ -1,5 +1,5 @@
 ---
-description: can be found on the map holder
+description: Can be found on the map holder
 ---
 
 # Has a sweet tooth

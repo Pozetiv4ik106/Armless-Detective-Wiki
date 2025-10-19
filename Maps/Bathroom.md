@@ -1,5 +1,7 @@
 ---
-description: “Find out who decided it was a good idea to blow up the toilet and leave with 3 traces.”
+description: >-
+  “Find out who decided it was a good idea to blow up the toilet and leave with
+  3 traces.”
 cover: ../.gitbook/assets/file3_4.png
 coverY: 0
 ---
@@ -8,7 +10,7 @@ coverY: 0
 
 ⭐⭐⭐
 
-<div><figure><img src="../.gitbook/assets/file3_4.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/file2_7.png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/file3_4.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/file2_7.png" alt=""><figcaption></figcaption></figure></div>
 
 <figure><img src="../.gitbook/assets/file4_5.png" alt=""><figcaption></figcaption></figure>
 
@@ -20,7 +22,5 @@ Info: The bathroom location opens to you after completing the first two location
 \
 3 A new map, “[Moolah Manor](MoolahManor.md)”\
 \
-Extra info: Someone watched Markiplier's video
-\
+Extra info: Someone watched Markiplier's video\
 in this toilet\
-\

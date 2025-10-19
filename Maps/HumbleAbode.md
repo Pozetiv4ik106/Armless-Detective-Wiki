@@ -6,9 +6,9 @@ description: “Find who broke into the Humble Abode and stole the Bloxy Award.�
 
 Humble Abode is a ⭐⭐ difficulty map and it is the second map you will play on containing 3 rooms Hall/kitchen, bedroom and bathroom
 
-<div><figure><img src="../.gitbook/assets/file3_1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/file4.png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/file3_1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/file4.png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/file5 (1).png" alt=""><figcaption></figcaption></figure>
+<div data-full-width="false"><figure><img src="../.gitbook/assets/file5 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The Humble Abode location opens to you after completing the first map Hotel room\
 \
