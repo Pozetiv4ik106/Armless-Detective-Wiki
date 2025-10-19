@@ -1,5 +1,7 @@
 ---
 description: A special card for Halloween 2025 with its own unique clues.
+cover: ../../.gitbook/assets/file2 (7).png
+coverY: 0
 ---
 
 # Cursed Cathedral

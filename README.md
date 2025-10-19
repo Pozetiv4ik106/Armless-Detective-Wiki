@@ -1,5 +1,7 @@
 ---
 icon: hand-wave
+cover: .gitbook/assets/f783e379-9bb8-4fd0-8e4e-93a5ceb22af2.jpg
+coverY: 0
 ---
 
 # README
@@ -7,3 +9,5 @@ icon: hand-wave
 ## Please Note That This Is Still In DEVELOPMENT!
 
 This is a wiki that includes everything you need to know about armless detective.
+
+<figure><img src=".gitbook/assets/f783e379-9bb8-4fd0-8e4e-93a5ceb22af2.jpg" alt=""><figcaption></figcaption></figure>

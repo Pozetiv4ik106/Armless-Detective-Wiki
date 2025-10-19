@@ -1,5 +1,7 @@
 ---
 description: “Find who broke into the Humble Abode and stole the Bloxy Award.”
+cover: ../.gitbook/assets/file4.png
+coverY: 0
 ---
 
 # Humble Abode
