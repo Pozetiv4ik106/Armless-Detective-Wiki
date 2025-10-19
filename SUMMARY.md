@@ -5,6 +5,12 @@
 ## Gameloop
 
 * [Main Gameloop](Gameloop/README.md)
+* [Page 1](gameloop/page-1.md)
+
+## Character
+
+* [Main Character](character/main-character.md)
+* [Page 2](character/page-2.md)
 
 ## Maps
 
