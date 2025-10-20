@@ -2,10 +2,10 @@
 
 {% tabs %}
 {% tab title="First Tab" %}
-<figure><img src="../../.gitbook/assets/file5 (1) (1).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="Second Tab" %}
-
+[Robs graves](https://armless-detective-wiki.gitbook.io/wiki/clues/hallowen-clues-2025/robs-graves)\
+\
+[Has a personal vendetta](https://armless-detective-wiki.gitbook.io/wiki/clues/hallowen-clues-2025/has-a-personal-vandetta)\
+\
+[Diamond burglar](https://armless-detective-wiki.gitbook.io/wiki/clues/hallowen-clues-2025/diamond-buglar)
 {% endtab %}
 {% endtabs %}
