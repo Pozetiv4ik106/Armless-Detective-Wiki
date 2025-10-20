@@ -1,3 +1,12 @@
 # Louie
 
-<figure><img src="../../.gitbook/assets/file1 (18) (2).png" alt=""><figcaption></figcaption></figure>
+{% tabs %}
+{% tab title="First Tab" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
