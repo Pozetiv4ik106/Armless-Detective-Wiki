@@ -59,6 +59,20 @@
   * [Nancy](Suspects/Nancy.md)
   * [Buck](Suspects/Buck.md)
   * [Oliver](Suspects/Oliver.md)
+* [Hotel room Suspects](suspects/hotel-room-suspects/README.md)
+  * [Susan](suspects/hotel-room-suspects/susan.md)
+  * [Oliver](suspects/hotel-room-suspects/oliver.md)
+  * [Buck](suspects/hotel-room-suspects/buck.md)
+  * [Nancy](suspects/hotel-room-suspects/nancy.md)
+  * [Junior](suspects/hotel-room-suspects/junior.md)
+  * [Jimbo](suspects/hotel-room-suspects/jimbo.md)
+  * [William](suspects/hotel-room-suspects/william.md)
+  * [Mary](suspects/hotel-room-suspects/mary.md)
+  * [Linda](suspects/hotel-room-suspects/linda.md)
+  * [Kyle](suspects/hotel-room-suspects/kyle.md)
+  * [Sara](suspects/hotel-room-suspects/sara.md)
+  * [Charles](suspects/hotel-room-suspects/charles.md)
+  * [Clara](suspects/hotel-room-suspects/clara.md)
 
 ## Clues
 
