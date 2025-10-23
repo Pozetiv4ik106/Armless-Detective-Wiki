@@ -1,5 +1,7 @@
 # Sophia
 
+<figure><img src="../../.gitbook/assets/image.jpg" alt=""><figcaption></figcaption></figure>
+
 {% tabs %}
 {% tab title="First Tab" %}
 [Eats lots of food](https://app.gitbook.com/o/BuxDO4m0m00UAPnh8QIy/s/jLVzGtSyO9ofVQ62bOYw/~/changes/1/clues/clues/eatslotsoffood)\
