@@ -22,7 +22,7 @@
 ## Suspects
 
 * [Hotel room Suspects](suspects/hotel-room-suspects/README.md)
-  * [Page 5](suspects/hotel-room-suspects/page-5.md)
+  * [Sophia](suspects/hotel-room-suspects/sophia.md)
   * [James](suspects/hotel-room-suspects/james.md)
   * [Betty](suspects/hotel-room-suspects/betty.md)
   * [Herbert](suspects/hotel-room-suspects/herbert.md)
