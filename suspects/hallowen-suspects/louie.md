@@ -1,5 +1,7 @@
 # Louie
 
+<figure><img src="../../.gitbook/assets/file1 (18).png" alt="" width="321"><figcaption></figcaption></figure>
+
 {% tabs %}
 {% tab title="First Tab" %}
 [Has a sweet tooth](https://armless-detective-wiki.gitbook.io/wiki/clues/hallowen-clues-2025/has-a-sweet-tooth)\
@@ -13,4 +15,3 @@
 
 {% endtab %}
 {% endtabs %}
-
