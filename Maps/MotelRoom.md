@@ -14,7 +14,10 @@ Motel room is a ⭐ difficulty map and the first map you'll be playing that cont
 
 1. 10 coins ( _Repeatable_ )
 2. A badge, “[Armless & Dangerous](../Achievements/Armless\&Dangerous.md)”
-3. A new map, “[Humble Adobe](HumbleAbode.md)”
+3. A new map, “[Humble Adobe](HumbleAbode.md)”\
+
+
+
 
 ## BACKSTORY:
 

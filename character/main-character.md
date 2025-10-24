@@ -8,5 +8,6 @@ coverY: 0
 
 His full story is classified for now.
 
-<figure><img src="../.gitbook/assets/12_20251004191109.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/IMG_4941.gif" alt=""><figcaption></figcaption></figure>
