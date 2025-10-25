@@ -9,6 +9,7 @@
 ## Character
 
 * [Main Character](character/main-character.md)
+* [Moolah Manor](character/moolah-manor.md)
 
 ## Maps
 
