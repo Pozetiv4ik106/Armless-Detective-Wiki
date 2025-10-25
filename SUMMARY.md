@@ -30,7 +30,6 @@
   * [Trey](suspects/hotel-room-suspects/trey.md)
   * [David](suspects/hotel-room-suspects/david.md)
   * [Matthew](suspects/hotel-room-suspects/matthew.md)
-  * [Page](suspects/hotel-room-suspects/page.md)
   * [Susan](suspects/hotel-room-suspects/susan.md)
   * [Oliver](suspects/hotel-room-suspects/oliver.md)
   * [Buck](suspects/hotel-room-suspects/buck.md)
