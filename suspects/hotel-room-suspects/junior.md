@@ -10,9 +10,9 @@ Gender: Male
 {% tab title="Motel Room" %}
 Suspect No°9
 
-* [Sheds hair oftenly](../../Clues/Shedshairoftenly.md)
-* [Cold-blooded](../../Clues/Cold-blooded.md)
-* [Has no robux](../../Clues/Hasnorobux.md)
+* [Sheds hair often](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/shedshairoftenly)
+* [Cold-blooded](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/cold-blooded)
+* [Has no Robux](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/hasnorobux)
 {% endtab %}
 
 {% tab title="Null" %}

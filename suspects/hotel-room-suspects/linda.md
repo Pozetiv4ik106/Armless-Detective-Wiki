@@ -10,9 +10,9 @@ Gender: Female
 {% tab title="Motel Room" %}
 Suspect No°5
 
-* [Writes in their diary](../../Clues/Writesintheirdiary.md)
-* [Bad at hiding their fingerprints](../../Clues/Badathidingtheirfingerprints.md)
-* [Cold-blooded](../../Clues/Cold-blooded.md)
+* [Writes in their diary](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/writesintheirdiary)
+* [Bad at hiding their fingerprints](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/badathidingtheirfingerprints)
+* [Cold-blooded](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/cold-blooded)
 {% endtab %}
 
 {% tab title="Null" %}

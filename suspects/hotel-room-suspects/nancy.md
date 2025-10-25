@@ -10,9 +10,9 @@ Gender: Female
 {% tab title="Motel Room" %}
 Suspect No°10
 
-* [Has no robux](../../Clues/Hasnorobux.md)
-* [Writes in their diary](../../Clues/Writesintheirdiary.md)
-* [Likes to clean](../../Clues/Likestoclean.md)
+* [Has no Robux](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/hasnorobux)
+* [Writes in their diary](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/writesintheirdiary)
+* [Likes to clean](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/likestoclean)
 {% endtab %}
 
 {% tab title="Null" %}

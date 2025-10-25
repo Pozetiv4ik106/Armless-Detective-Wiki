@@ -10,9 +10,9 @@ Gender: Male
 {% tab title="Motel Room" %}
 Suspect No°4
 
-* [Eats lots of food](../../Clues/Eatslotsoffood.md)
-* [Bad at hiding their fingerprints](../../Clues/Badathidingtheirfingerprints.md)
-* [Cold-blooded](../../Clues/Cold-blooded.md)
+* [Eats lots of food](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/eatslotsoffood)
+* [Bad at hiding their fingerprints](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/badathidingtheirfingerprints)
+* [Cold-blooded](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/cold-blooded)
 {% endtab %}
 
 {% tab title="Null" %}

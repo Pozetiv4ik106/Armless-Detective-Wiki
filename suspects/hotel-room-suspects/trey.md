@@ -2,11 +2,11 @@
 
 {% tabs %}
 {% tab title="First Tab" %}
-[Eats lots of food](https://app.gitbook.com/o/BuxDO4m0m00UAPnh8QIy/s/jLVzGtSyO9ofVQ62bOYw/~/changes/1/clues/clues/eatslotsoffood)\
+[Eats lots of food](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/eatslotsoffood)\
 \
-[Cold-blooded](https://app.gitbook.com/o/BuxDO4m0m00UAPnh8QIy/s/jLVzGtSyO9ofVQ62bOYw/~/changes/1/clues/clues/cold-blooded)\
+[Cold-blooded](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/cold-blooded)\
 \
-[Has no Robux](https://app.gitbook.com/o/BuxDO4m0m00UAPnh8QIy/s/jLVzGtSyO9ofVQ62bOYw/~/changes/1/clues/clues/hasnorobux)
+[Has no Robux](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/hasnorobux)
 {% endtab %}
 
 {% tab title="Second Tab" %}

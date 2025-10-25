@@ -10,9 +10,9 @@ Gender: Male
 {% tab title="Motel Room" %}
 Suspect No°7
 
-* [Likes to clean](../../Clues/Likestoclean.md)
-* [Eats lots of food](../../Clues/Eatslotsoffood.md)
-* [Sheds hair oftenly](../../Clues/Shedshairoftenly.md)
+* [Likes to clean](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/likestoclean)
+* [Eats lots of food](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/eatslotsoffood)
+* [Sheds hair often](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/shedshairoftenly)
 {% endtab %}
 
 {% tab title="Null" %}

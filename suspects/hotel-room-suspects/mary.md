@@ -10,9 +10,9 @@ Gender: Female
 {% tab title="Motel Room" %}
 Suspect No°6
 
-* [Writes in their diary](../../Clues/Writesintheirdiary.md)
-* [Eats lots of food](../../Clues/Eatslotsoffood.md)
-* [Cold-blooded](../../Clues/Cold-blooded.md)
+* [Writes in their diary](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/writesintheirdiary)
+* [Eats lots of food](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/eatslotsoffood)
+* [Cold-blooded](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/cold-blooded)
 {% endtab %}
 
 {% tab title="Null" %}

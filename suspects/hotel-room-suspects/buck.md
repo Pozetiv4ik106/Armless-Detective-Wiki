@@ -10,9 +10,9 @@ Gender: Male
 {% tab title="Motel Room" %}
 Suspect No°11
 
-* [Writes in their diary](../../Clues/Writesintheirdiary.md)
-* [Eats lots of food](../../Clues/Eatslotsoffood.md)
-* [Bad at hiding their fingerprints](../../Clues/Badathidingtheirfingerprints.md)
+* [Writes in their diary](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/writesintheirdiary)
+* [Eats lots of food](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/eatslotsoffood)
+* [Bad at hiding their fingerprints](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/badathidingtheirfingerprints)
 {% endtab %}
 
 {% tab title="Null" %}

@@ -12,9 +12,9 @@ Gender: Female
 {% tab title="Motel Room" %}
 Suspect No°1
 
-* [Bad at hiding their fingerprints](../../Clues/Badathidingtheirfingerprints.md)
-* [Cold-blooded](../../Clues/Cold-blooded.md)
-* [Has no robux](../../Clues/Hasnorobux.md)
+* [Bad at hiding their fingerprints](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/badathidingtheirfingerprints)
+* [Cold-blooded](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/cold-blooded)
+* [Has no Robux](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/hasnorobux)
 {% endtab %}
 
 {% tab title="Null" %}

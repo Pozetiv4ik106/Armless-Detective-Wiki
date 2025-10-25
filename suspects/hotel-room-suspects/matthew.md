@@ -2,11 +2,11 @@
 
 {% tabs %}
 {% tab title="First Tab" %}
-[Writes in their diary](https://app.gitbook.com/o/BuxDO4m0m00UAPnh8QIy/s/jLVzGtSyO9ofVQ62bOYw/~/changes/1/clues/clues/writesintheirdiary)\
+[Writes in their diary](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/writesintheirdiary)\
 \
-[Shed Shairoftenly](https://app.gitbook.com/o/BuxDO4m0m00UAPnh8QIy/s/jLVzGtSyO9ofVQ62bOYw/~/changes/1/clues/clues/shedshairoftenly)\
+[Sheds hair often](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/shedshairoftenly)\
 \
-[Has no Robux](https://app.gitbook.com/o/BuxDO4m0m00UAPnh8QIy/s/jLVzGtSyO9ofVQ62bOYw/~/changes/1/clues/clues/hasnorobux)
+[Has no Robux](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/hasnorobux)
 {% endtab %}
 
 {% tab title="Second Tab" %}
