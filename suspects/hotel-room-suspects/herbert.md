@@ -2,11 +2,11 @@
 
 {% tabs %}
 {% tab title="First Tab" %}
-[Likes to clean](https://app.gitbook.com/o/BuxDO4m0m00UAPnh8QIy/s/jLVzGtSyO9ofVQ62bOYw/~/changes/1/clues/clues/likestoclean)\
+[Likes to clean](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/likestoclean)\
 \
-[Shed Shairoftenly](https://app.gitbook.com/o/BuxDO4m0m00UAPnh8QIy/s/jLVzGtSyO9ofVQ62bOYw/~/changes/1/clues/clues/shedshairoftenly)\
-\
-[Bad at hiding their fingerprints](https://app.gitbook.com/o/BuxDO4m0m00UAPnh8QIy/s/jLVzGtSyO9ofVQ62bOYw/~/changes/1/clues/clues/badathidingtheirfingerprints)
+[Sheds hair often](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/shedshairoftenly)
+
+[Bad at hiding their fingerprints](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/badathidingtheirfingerprints)
 {% endtab %}
 
 {% tab title="Second Tab" %}

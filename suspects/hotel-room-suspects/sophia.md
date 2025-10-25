@@ -4,11 +4,11 @@
 
 {% tabs %}
 {% tab title="First Tab" %}
-[Eats lots of food](https://app.gitbook.com/o/BuxDO4m0m00UAPnh8QIy/s/jLVzGtSyO9ofVQ62bOYw/~/changes/1/clues/clues/eatslotsoffood)\
+[Eats lots of food](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/eatslotsoffood)\
 \
-[Shed Shairoftenly](https://app.gitbook.com/o/BuxDO4m0m00UAPnh8QIy/s/jLVzGtSyO9ofVQ62bOYw/~/changes/1/clues/clues/shedshairoftenly)\
+[Sheds hair often](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/shedshairoftenly)\
 \
-[Bad at hiding their fingerprints](https://app.gitbook.com/o/BuxDO4m0m00UAPnh8QIy/s/jLVzGtSyO9ofVQ62bOYw/~/changes/1/clues/clues/badathidingtheirfingerprints)
+[Bad at hiding their fingerprints](https://armless-detective-wiki-1.gitbook.io/armless-detective-wiki/clues/clues/badathidingtheirfingerprints)
 {% endtab %}
 
 {% tab title="Second Tab" %}
