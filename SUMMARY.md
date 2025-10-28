@@ -9,6 +9,7 @@
 ## Character
 
 * [Main Character](character/main-character.md)
+* [Chief](character/chief.md)
 * [Moolah](character/moolah.md)
 * [Petition guy](character/petition-guy.md)
 
