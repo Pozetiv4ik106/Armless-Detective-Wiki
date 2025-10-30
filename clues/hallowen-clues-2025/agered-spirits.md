@@ -6,7 +6,7 @@ description: >-
 
 # Agered spirits
 
-To understand if your suspect has angry spirits, you need to shine the light on the ghost, if he made senior sounds and jumped on you, then this means angry spirits, if he just disappeared, then this is not angry spirits
+To understand if your suspect has angry spirits, you need to shine the light on the ghost, if he made senior sounds and jumped on you, then this means angry spirits, if he just disappeared, then this is not angry spirits\
 
-<figure><img src="../../.gitbook/assets/file2 (5).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/IMG_4848.gif" alt=""><figcaption></figcaption></figure>
