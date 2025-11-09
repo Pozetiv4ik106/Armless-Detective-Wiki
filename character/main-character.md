@@ -19,3 +19,5 @@ His full story is classified for now.
 <div><figure><img src="../.gitbook/assets/Screenshot_20251006_201701_Samsung_Internet.jpg" alt=""><figcaption><p>Made by:「 𝖱𝗎𝖻𝗒 」 ˎ ٭ * ∘ ˙🔎</p></figcaption></figure> <figure><img src="../.gitbook/assets/Untitled18_20251006195806.png" alt=""><figcaption><p>Made by:Gebby Boy</p></figcaption></figure></div>
 
 <div><figure><img src="../.gitbook/assets/Untitled18_20251012180844.png" alt=""><figcaption><p>Made by:kiwizer | elias's kiwi</p></figcaption></figure> <figure><img src="../.gitbook/assets/Untitled18_20251008194912.png" alt=""><figcaption></figcaption></figure></div>
+
+<figure><img src="../.gitbook/assets/Untitled13_20251108153456.png" alt=""><figcaption><p>Made by:bee5411</p></figcaption></figure>
