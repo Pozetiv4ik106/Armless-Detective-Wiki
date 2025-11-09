@@ -21,3 +21,5 @@ His full story is classified for now.
 <div><figure><img src="../.gitbook/assets/Untitled18_20251012180844.png" alt=""><figcaption><p>Made by:kiwizer | elias's kiwi</p></figcaption></figure> <figure><img src="../.gitbook/assets/Untitled18_20251008194912.png" alt=""><figcaption></figcaption></figure></div>
 
 <figure><img src="../.gitbook/assets/Untitled13_20251108153456.png" alt=""><figcaption><p>Made by:bee5411</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Untitled873.png" alt=""><figcaption><p>Made by:RImaro</p></figcaption></figure>
