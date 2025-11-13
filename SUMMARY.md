@@ -25,7 +25,6 @@
 ## Suspects
 
 * [Hotel room Suspects](suspects/hotel-room-suspects/README.md)
-  * [Page 1](suspects/hotel-room-suspects/page-1.md)
   * [Rebecca](suspects/hotel-room-suspects/rebecca.md)
   * [Sophia](suspects/hotel-room-suspects/sophia.md)
   * [James](suspects/hotel-room-suspects/james.md)
@@ -70,6 +69,8 @@
   * [Sara](suspects/humble-abode-suspects/sara.md)
   * [Charles](suspects/humble-abode-suspects/charles.md)
   * [Clara](suspects/humble-abode-suspects/clara.md)
+* [Bathroom Suspects](suspects/bathroom-suspects.md)
+* [Moolah Manor Suspects](suspects/moolah-manor-suspects.md)
 * [Hallowen Suspects](suspects/hallowen-suspects/README.md)
   * [Jack](suspects/hallowen-suspects/jack.md)
   * [Rob](suspects/hallowen-suspects/rob.md)
